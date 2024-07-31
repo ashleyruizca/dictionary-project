@@ -10,7 +10,7 @@ function App() {
           <Dictionary defaultKeyword="Rose" />
         </main>
         <footer className="App-footer">
-          <small>coded by Ashley Ruiz-Carrizales</small>
+          <small>Coded by Ashley Ruiz-Carrizales</small>
         </footer>
       </div>
     </div>

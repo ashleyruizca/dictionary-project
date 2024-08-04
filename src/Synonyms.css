@@ -4,7 +4,9 @@
 }
 
 .Synonyms li {
+  color: blue;
   display: inline-block;
   padding-right: 10px;
   line-height: 1;
+  font-size: 13px;
 }
